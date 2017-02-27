@@ -26,9 +26,6 @@ str(data2)
 #Not yet perfect: omit x-label (data2$datetime) and draw a line instead of points (=> type is l for lines):
 plot(data2$datetime,data2$Global_active_power,ylab="Global Active Power (kilowatts)",xlab="",type="l")
 
-#NOTE TO REVIEWERS: I live in the Netherlands, that is why on the x axis you see:
-# DO = Thu ; VR = Fri ; ZA = Sat
-
 #save it to a PNG file with a width of 480 pixels and a height of 480 pixels (plot1.png)
 #Copy plot to png file:
 dev.copy(png, file="plot2.png", width=480, height=480)
