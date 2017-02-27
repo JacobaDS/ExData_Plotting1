@@ -1,0 +1,10 @@
+This is my submission for Course Project 1 of Exploratory Data Analysis.
+My submission includes 4 PNG files and 4 R Scripts.
+
+NOTE TO REVIEWERS: the R Scripts include code for READING the data (as prescribed by this Assignment).
+In other words: the R Scripts assume that the following file is in your working directory:
+household_power_consumption.txt
+
+I did not include the code for downloading and unzipping the data, as this was not required.
+
+Kind regards
